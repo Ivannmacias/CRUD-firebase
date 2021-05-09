@@ -1,6 +1,8 @@
-Se realizo un un CRUD en React.js, en el puedes agregar, actualizar y eliminar elementos de una base de datos que esta enlazada con firebase.
+#CRUD con React y Firebase
+- ##Interfaz Principal
+![](https://media.giphy.com/media/Q9LLZ8To4THbvYmS5K/giphy.gif)
 
-![](https://firebasestorage.googleapis.com/v0/b/crud-react-2794c.appspot.com/o/image_CRUD_React.png?alt=media&token=aad8477f-bb28-4741-942e-1d4af5978ce5)
+- ##Firebase
+- Se creo una base de datos llamada tareas donde se almacena los datos que mandan desde el lado del frontend.
 
-Hosting
-https://crud-react-2794c.firebaseapp.com/
+![](https://firebasestorage.googleapis.com/v0/b/crud-react-2794c.appspot.com/o/firebase_CRUD_react.png?alt=media&token=46965815-3ff8-479f-8229-0363892b049f)
